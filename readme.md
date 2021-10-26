@@ -36,27 +36,57 @@ const Siddhant = {
 
 ## 🛠️ Languages and Tools :
 
-   <a> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank">
+   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
   
-   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank"> 
+   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+ </a>
+
+ <a href="https://sass-lang.com/" target="_blank"> 
+   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+ </a>
  
-   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://isocpp.org/" target="_blank">
+   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
+  </a>
+
+  <a href="https://python.org/" target="_blank">
+   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>
   
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <a href="https://reactjs.org/" target="_blank"> 
+   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+  <a href="https://nodejs.org/en/" target="_blank"> 
+   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  
+  <a href="http://typescriptlang.org/" target="_blank"> 
+   <img align="center" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="40" height="40"/> 
+  </a>
 
-   <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="40" height="40"/> 
+  <a href="https://git-scm.com/" target="_blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> 
+  </a> 
 
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="ps" width="40" height="40"/> 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/66px-Adobe_Illustrator_CC_icon.svg.png" alt="ai" width="40" height="40"/> 
-
-<img src="https://scontent.fbom36-1.fna.fbcdn.net/v/t1.6435-9/90730619_103873424601065_2482667104847790080_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=973b4a&_nc_ohc=jxw6hTCRzMMAX-x2Ooy&_nc_ht=scontent.fbom36-1.fna&oh=2b5d4897e5f42e100dbe5a877c5bd750&oe=619C0D97" alt="bootstrap" width="40" height="40"/> 
-	
-  <img  src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/>
+  <a href="https://figma.com/" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/66px-Adobe_Illustrator_CC_icon.svg.png" alt="ai" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://dashboard.heroku.com/" target="_blank">
+    <img align="center" src="https://scontent.fbom36-1.fna.fbcdn.net/v/t1.6435-9/90730619_103873424601065_2482667104847790080_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=973b4a&_nc_ohc=jxw6hTCRzMMAX-x2Ooy&_nc_ht=scontent.fbom36-1.fna&oh=2b5d4897e5f42e100dbe5a877c5bd750&oe=619C0D97" alt="tailwind" width="40" height="40"/>
+  </a> 
+  
+  <a href="https://getbootstrap.com" target="_blank"> 
+   <img align="center" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
 
 
 ## 💻  Let's Connect
