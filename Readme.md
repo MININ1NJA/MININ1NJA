@@ -37,11 +37,11 @@ const Siddhant = {
 ## 🛠️ Languages and Tools :
 
 <a href="https://www.w3schools.com/html/" target="_blank">
-   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+   <img align="center" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/> 
   </a>
   
  <a href="https://www.w3schools.com/css/" target="_blank"> 
-   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3" width="40" height="40"/> 
  </a>
 
  <a href="https://www.w3schools.com/js/" target="_blank"> 
