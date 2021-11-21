@@ -20,7 +20,7 @@
 
 <br /> 
 
-## 😄 A little more about me
+## 😄 Know me better
 ```javascript
 const Siddhant = {
   pronouns: "He" | "Him",
