@@ -74,7 +74,7 @@ const Siddhant = {
   </a> 
   
   <a href="https://tailwindcss.com/" target="_blank">
-    <img align="center" src="https://scontent.fbom36-1.fna.fbcdn.net/v/t1.6435-9/90730619_103873424601065_2482667104847790080_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=973b4a&_nc_ohc=jxw6hTCRzMMAX-x2Ooy&_nc_ht=scontent.fbom36-1.fna&oh=2b5d4897e5f42e100dbe5a877c5bd750&oe=619C0D97" alt="tailwind" width="40" height="40"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/>
   </a> 
   
   <a href="https://getbootstrap.com/" target="_blank"> 
